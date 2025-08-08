@@ -1,0 +1,30 @@
+Belajar bareng PyAutoid
+
+Targe Web Apps
+URL : https://booking.kai.id/
+
+Booking tiket KAI
+
+Skenario 
+- Pilih stasiun asal
+- Pilih tujuan
+- Pilih waktu keberangkatan
+- Tekan cari dan pesan tiket
+- Pindah ke halaman list tiket
+- Pilih kereta paling atas
+- Page detail pemesanan
+- Expect harga dan nama kereta samam seperti yang dipilih
+
+
+*Bang Yali : prosedural automation tanpa assertion
+*Bang Uno : bikin jadi pytest (prosedural)
+*Bang Eri : report
+*Bang Uno : POM
+
+
+Bahasa : Python
+Web automation framework : Selenium Python 
+Testing framework : Pytest
+Report : Allure Report
+Repo / VCS : github
+Sampai mana : POM (Page Object Model)

@@ -1,0 +1,4 @@
+Selenium
+Pytest
+allure-Pytest
+pytest-xdist
